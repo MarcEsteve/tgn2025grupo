@@ -32,7 +32,7 @@ def main():
     fecha = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
     # Nueva ruta de destino
-    carpeta_base = os.path.join("Tu_Direccion", "report_data")
+    carpeta_base = os.path.join("C:\\Tu_Direccion", "report_data")
     carpeta_destino = os.path.join(carpeta_base, f"{usuario}_{fecha}")
 
     os.makedirs(carpeta_destino, exist_ok=True)
