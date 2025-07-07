@@ -1,18 +1,6 @@
 console.log("Hola mundo");
-//<<<<<<< HEAD
-//<<<<<<< Updated upstream
-//no
-//=======
 //no
 //hola vereis que bien
-//<<<<<<< HEAD
-//<<<<<<< HEAD
-//hola hoal 
-//=======
-console.log("Las super maquinas descompuestas");
-//>>>>>>> 9d1a9264e3f656ec5e0bcc1ba4fa1cceffa3b6ca
-//>>>>>>> ebbddefc4dc656dfa5ae98f9fbefa206c9bdfa93
-//=======
 
 //⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 //⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠶⢦⣤⠶⠶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -37,4 +25,3 @@ console.log("Las super maquinas descompuestas");
 
 console.log("Las super maquinas descompuestas");
 
-//>>>>>>> 80a842283bebf681efd87ec7267cf6677eb4e634
